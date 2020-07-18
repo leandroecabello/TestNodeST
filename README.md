@@ -8,10 +8,11 @@
 - express 
 
 ## Uso
-Puede descargar este repo para testear sin compromiso, clonandolo y una vez descargado correr npm i para instalara dependedencias, si lo desea puede instalar nodemon 
-para actualizar el servidor automaticamente ya que está configurado para correrlo con npm run dev.
+Puede descargar este repo para testear sin compromiso, clonandolo y una vez descargado correr **_npm i_** para instalara dependedencias, si lo desea puede instalar **_nodemon_** 
+para actualizar el servidor automaticamente ya que está configurado para correrlo con **_npm run dev_**.
+
 Ej:
-  - Con postman puede probar la carga de un restuarant de la siguiente manera:
+- Con postman puede probar la carga de un restuarant de la siguiente manera:
     ```json
     {
       "name": "nombre del restaurant",
